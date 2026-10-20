@@ -1,9 +1,7 @@
 # Kickstarter Campaign Analysis (Power BI)
 
 An interactive Power BI dashboard analyzing 702K+ Kickstarter crowdfunding projects, built as a hands-on project during the ITI Power BI track.
-
-![Dashboard Preview](screenshots/dashboard.png)
-
+<img width="960" height="542" alt="image" src="https://github.com/user-attachments/assets/ea8cbb2c-8dcb-415e-aa10-bc83ca58d5a6" />
 ## Key Metrics
 - **702K** projects and **73M** backers
 - **$6.48bn** total pledged against a **$34bn** total goal
@@ -27,5 +25,4 @@ Power BI, Power Query, DAX, Excel
 Download `Kickstarter_Analysis.pbix` and open it with Power BI Desktop.
 
 ## Author
-Eman Salah<img width="960" height="542" alt="image" src="https://github.com/user-attachments/assets/ea8cbb2c-8dcb-415e-aa10-bc83ca58d5a6" />
-# Kickstarter-Campaign-Analysis-PowerBI
+Eman Salah
